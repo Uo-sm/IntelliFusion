@@ -19,7 +19,7 @@ conda activate env_name
      WEATHER_API_KEY=OpenWeatherMap密钥
      SEARCH_API_KEY=SerpAPI密钥
      ```
-  或通过工具配置界面（菜单栏→工具→配置）填写密钥。
+
 
 6.输入 python IntellFusion.py 等待半分钟左右加载完成
 
