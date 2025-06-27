@@ -14,3 +14,5 @@ conda activate env_name
 或者 conda env create -f environment.yml
 
 5.输入 python IntellFusion.py 等待半分钟左右加载完成
+
+更具体的复现代码中所含的功能请参照API文档和用户手册.md
