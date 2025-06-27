@@ -1,0 +1,16 @@
+如何使用
+1.下载release_version.zip包并解压
+2.打开终端，输入   cd 解压后的文件夹的路径
+3.windows：终端输入 python -m venv venv
+              .\venv\Scripts\activate
+Mac：终端输入python -m venv venv
+source venv/bin/activate
+
+(先将conda加入系统环境变量)
+或者 conda create -n env_name
+conda activate env_name
+
+4.输入 pip install -r requirements.txt
+或者 conda env create -f environment.yml
+
+5.输入 python polishing.py 等待半分钟左右加载完成
