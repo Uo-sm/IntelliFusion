@@ -13,4 +13,4 @@ conda activate env_name
 4.输入 pip install -r requirements.txt
 或者 conda env create -f environment.yml
 
-5.输入 python polishing.py 等待半分钟左右加载完成
+5.输入 python IntellFusion.py 等待半分钟左右加载完成
