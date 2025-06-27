@@ -1,5 +1,5 @@
 如何使用
-1.下载release_version.zip包并解压
+1.下载release.zip包并解压
 2.打开终端，输入   cd 解压后的文件夹的路径
 3.windows：终端输入 python -m venv venv
               .\venv\Scripts\activate
